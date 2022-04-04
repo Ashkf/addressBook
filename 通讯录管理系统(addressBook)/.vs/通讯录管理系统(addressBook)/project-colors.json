@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ed48ce18-9ea0-4263-8d61-e6e7353a6195": {
+      "ProjectGuid": "ed48ce18-9ea0-4263-8d61-e6e7353a6195",
+      "DisplayName": "通讯录管理系统(addressBook)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
