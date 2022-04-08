@@ -1,0 +1,12 @@
+﻿  main.cpp
+  mainFunction.cpp
+C:\Users\kai\OneDrive\1_工作\12_Source\120_C++\1202_addressBook\通讯录管理系统(addressBook)\mainFunction.cpp(16,12): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\kai\OneDrive\1_工作\12_Source\120_C++\1202_addressBook\通讯录管理系统(addressBook)\mainFunction.cpp(95,24): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  IOFunction.cpp
+  正在运行 C/C++ 代码分析...
+  正在生成代码...
+  通讯录管理系统(addressBook).vcxproj -> C:\Users\kai\OneDrive\1_工作\12_Source\120_C++\1202_addressBook\通讯录管理系统(addressBook)\x64\Debug\通讯录管理系统(addressBook).exe
+C:\Users\kai\OneDrive\1_工作\12_Source\120_C++\1202_addressBook\通讯录管理系统(addressBook)\main.cpp(9): warning C6262: 函数使用了堆栈的“128008”个字节: 超过了 /analyze:stacksize '16384'。 请考虑将某些数据移到堆中。
+C:\Users\kai\OneDrive\1_工作\12_Source\120_C++\1202_addressBook\通讯录管理系统(addressBook)\Struct.h(25): warning C26495: 未初始化变量 AddressBook::m_addressSize。始终初始化成员变量(type.6)。
+C:\Users\kai\OneDrive\1_工作\12_Source\120_C++\1202_addressBook\通讯录管理系统(addressBook)\Struct.h(16): warning C26495: 未初始化变量 Person::m_age。始终初始化成员变量(type.6)。
+C:\Users\kai\OneDrive\1_工作\12_Source\120_C++\1202_addressBook\通讯录管理系统(addressBook)\mainFunction.cpp(117): warning C26451: 算术溢出: 使用 4 字节值上的运算符 - ，然后将结果转换到 8 字节值。在调用运算符 - 之前将值强制转换为宽类型可避免溢出(io.2)。

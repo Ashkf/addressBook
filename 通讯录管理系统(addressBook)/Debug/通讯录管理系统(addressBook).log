@@ -1,0 +1,9 @@
+﻿  main.cpp
+  mainFunction.cpp
+D:\OneDrive\1_工作\12_Source\120_C++\1202_addressBook\通讯录管理系统(addressBook)\mainFunction.cpp(11,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\OneDrive\1_工作\12_Source\120_C++\1202_addressBook\通讯录管理系统(addressBook)\mainFunction.cpp(87,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\OneDrive\1_工作\12_Source\120_C++\1202_addressBook\通讯录管理系统(addressBook)\mainFunction.cpp(111,32): warning C4018: “<”: 有符号/无符号不匹配
+  IOFunction.cpp
+  正在生成代码...
+D:\OneDrive\1_工作\12_Source\120_C++\1202_addressBook\通讯录管理系统(addressBook)\IOFunction.cpp(109): warning C4715: “FetchPersonInfo”: 不是所有的控件路径都返回值
+  通讯录管理系统(addressBook).vcxproj -> D:\OneDrive\1_工作\12_Source\120_C++\1202_addressBook\通讯录管理系统(addressBook)\Debug\通讯录管理系统(addressBook).exe
